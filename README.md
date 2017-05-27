@@ -1,3 +1,3 @@
 # msfvenom-gen
 
-Generate multiple msfvenom reverse shell 
+Generate multiple msfvenom reverse shells at once
